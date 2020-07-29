@@ -9,3 +9,5 @@
 
 
 在Kaggle中只有Research和Featured类型的比赛会累计积分和奖牌。
+
+计划在7~9月份做8个项目
